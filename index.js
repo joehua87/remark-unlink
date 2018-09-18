@@ -3,7 +3,7 @@
 var visit = require('unist-util-visit')
 var squeezeParagraphs = require('mdast-squeeze-paragraphs')
 
-var types = ['link', 'linkReference', 'image', 'imageReference', 'definition']
+var types = ['link', 'linkReference', 'definition']
 
 var splice = [].splice
 

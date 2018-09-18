@@ -1,7 +1,7 @@
 {
-  "name": "remark-unlink",
+  "name": "remark-unlink-links",
   "version": "2.1.0",
-  "description": "Remove all links, references and definitions",
+  "description": "Remove all links, references and definitions, not images",
   "license": "MIT",
   "keywords": [
     "definitions",
